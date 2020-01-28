@@ -14,8 +14,9 @@ $ source venv/bin/activate
 
 # Install Python requirements
 
-\$ pip install -e .
+$ pip install -e .
 The code is multi-platform and is tested on both Windows and Linux. The tool uses latest version of Chrome Web Driver. I have placed the webdriver along with the code but if that version doesn't work then replace the chrome web driver with the latest one according to your platform and your Google Chrome version.
+
 
 How to Run
 Fill your Facebook credentials into credentials.yaml
