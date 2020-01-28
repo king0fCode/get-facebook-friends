@@ -5,11 +5,10 @@ You will need to:
 Install latest version of Google Chrome.
 Install Python 3
 Have a Facebook account without 2FA enabled
+
 $ git clone https://github.com/king0fCode/get-facebook-friends.git
 $ cd get-facebook-friends
-
 # Set up a virtual env
-
 $ python3 -m venv venv
 $ source venv/bin/activate
 
